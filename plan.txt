@@ -1,0 +1,3 @@
+membuat a
+membuat b 
+membuat c

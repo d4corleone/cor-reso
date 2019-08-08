@@ -2,4 +2,6 @@ Percobaan pertama
 -membuat
 membuat o
 -makan
--minum kopi
+=======
+-minum
+beli tahu

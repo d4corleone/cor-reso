@@ -1,4 +1,3 @@
 Percobaan pertama
 -membuat
--membuat apa
--membuat apa apa
+-membuat ggg
